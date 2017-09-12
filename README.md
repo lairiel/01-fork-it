@@ -1,6 +1,6 @@
 ﻿# 01-fork-it
 
 
-* Студент: [Stacy](http://ссылка_на_профиль_гитхаб.ру)
+* Студент: [Stacy](https://github.com/lairiel)
 
-* Наставник: [Alex](http://ссылка_на_профиль_гитхаб.ру)
+* Наставник: [Alex](https://github.com/dguard)
